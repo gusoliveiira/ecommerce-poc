@@ -1,3 +1,3 @@
 Diagram:
 
-![diagram.png](diagram.png)
+![Diagram.png](Diagram.png)
