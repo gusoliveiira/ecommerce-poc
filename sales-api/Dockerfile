@@ -1,6 +1,6 @@
 FROM node:14
 WORKDIR .
-COPY PACKAGE*.json ./
+COPY package*.json ./
 RUN yarn
 COPY . .
 EXPOSE 8082
